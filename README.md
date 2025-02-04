@@ -10,4 +10,4 @@ Internal Nodes: Represent decisions or tests on attributes. Each internal node h
 Branches: Represent the outcome of a decision or test, leading to another node.
 Leaf Nodes: Represent the final decision or prediction. No further splits occur at these nodes.
 
-Note : Dataset used is Social_Network_Ads
+Note : Dataset used is Social_Network_Ads (Sourced from Kaggle)
