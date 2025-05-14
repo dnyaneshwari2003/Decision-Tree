@@ -1,4 +1,4 @@
-# Decision Tree
+#### Decision Tree
 ## Aim :
 To study and apply Data Preprocessing techniques on given dataset. Prepare a Social_Network_Ads dataset for training with machine learning algorithm by applying suitable data preprocessing techniques. Apply decision tree algorithm for classification. Evaluate the performance using Precision, Recall, F1 score and accuracy. Also visualize the decision tree.
 
